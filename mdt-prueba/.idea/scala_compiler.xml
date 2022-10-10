@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="mdt-prueba">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="C:\Users\mdt_p\modules\git\w2m\w2m-mdt-prueba\mdt-prueba\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+  </component>
+</project>
